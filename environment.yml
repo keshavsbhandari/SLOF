@@ -287,4 +287,3 @@ dependencies:
     - yapf==0.31.0
     - yarl==1.6.3
     - youtube-dl==2021.6.6
-prefix: /home/Students/k_b459/miniconda3/envs/torchlatest
