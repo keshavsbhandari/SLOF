@@ -6,6 +6,8 @@ Credits:
         
         https://github.com/sammy-su/KernelTransformerNetwork
         
+        https://github.com/facebookresearch/simsiam
+        
         https://www.crowd-render.com/
 
 
