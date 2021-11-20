@@ -54,6 +54,4 @@ Credits:
 
 ### Please see all options in main.py
 
-### Download Test Data From
-
-        https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/BADOGU
+### Download test data from the link provided in supplimental
