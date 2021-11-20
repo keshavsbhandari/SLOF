@@ -1,8 +1,6 @@
 '''
 Adopted from
 Tobias Weis work
-
-Author : @Keshav
 http://www.tobias-weis.de/groundtruth-data-for-computer-vision-with-blender/
 '''
 from typing import Any
