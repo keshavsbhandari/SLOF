@@ -24,11 +24,11 @@ if __name__ == '__main__':
     
     
     
-    parser.add_argument('--data_root', default='/data/keshav/flow360/FLOW360_train_test', help="name your experiment")
+    parser.add_argument('--data_root', default='/data/keshav/flow360/FLOW360_train_test', help="path to train test data")
     
-    parser.add_argument('--model_path', default='weights/singlerotation.pt', help="name your experiment")
-    parser.add_argument('--csv_save', default='singlerotation', help="name your experiment")
-    parser.add_argument('--model_save', default='weights/jpt.pt', help="name your experiment")
+    parser.add_argument('--model_path', default='weights/singlerotation.pt', help="path to saved model")
+    parser.add_argument('--csv_save', default='singlerotation', help="name of reports to be saved")
+    parser.add_argument('--model_save', default='weights/jpt.pt', help="name of model to be saved")
     
     parser.add_argument('--gpus', type=int, nargs='+', default=[0,1,2,3,4,5,6,7])
     
