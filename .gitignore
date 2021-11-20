@@ -1,0 +1,10 @@
+*.pyc
+*.egg-info
+*.ipynb_checkpoints
+__pycache__
+videos
+*.zip
+*.tar.gz
+RAFT/lionflo
+RAFT/lionflo.tar.gz
+RAFT/apple.jpeg
