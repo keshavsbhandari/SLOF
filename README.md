@@ -1,4 +1,3 @@
-@Author:
 Credits:
         https://github.com/haruishi43/equilib
         
